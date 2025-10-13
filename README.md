@@ -1,7 +1,19 @@
-<p align="center">Oi! Eu sou o Lucas Siqueira 😎 
-<br><br>3 semestres de Gestão da Tecnologia da Informação (GTI) na Fatec  
-<br>Atualmente curso Engenharia da Computação na Univesp  
-<br>Sou apaixonado por tecnologia e sempre em busca de aprender mais </p>
+<p align="center">
+  Oi! Eu sou o <strong>Lucas Siqueira</strong>  
+  <br><br>
+   Sou apaixonado por tecnologia e estou sempre em busca de aprender, evoluir e criar coisas novas.  
+  <br><br>
+   Meu objetivo é crescer na área de desenvolvimento, explorando novas linguagens, frameworks e ideias!
+</p>
+
+---
+
+## 🎓 Formação acadêmica
+
+-  **3 semestres de Gestão da Tecnologia da Informação (GTI)** — *Fatec*  
+-  **Cursando Engenharia da Computação** — *Univesp*
+
+---
 
 &nbsp;
 &nbsp;
@@ -25,6 +37,8 @@
 
 &nbsp;
 &nbsp;
+
+---
 
 ## Contatos:
 
