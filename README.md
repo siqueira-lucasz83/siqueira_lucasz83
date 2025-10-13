@@ -8,7 +8,7 @@
 
 ---
 
-## 🎓 Formação acadêmica
+##  Formação acadêmica
 
 -  **3 semestres de Gestão da Tecnologia da Informação (GTI)** — *Fatec*  
 -  **Cursando Engenharia da Computação** — *Univesp*
